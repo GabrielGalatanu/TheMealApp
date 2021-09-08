@@ -11,8 +11,14 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2DE9DA6892BD45BE94510CA8 /* BalsamiqSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74303C0F5F5B49938FF1E4E8 /* BalsamiqSans-Italic.ttf */; };
+		40BD8FB75CF243C684FEB4C4 /* Righteous-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CAF579AB152343CC85584DEF /* Righteous-Regular.ttf */; };
+		78659DA564C8499F814085D3 /* BalsamiqSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A29D69C8B5BC4759A888A1D4 /* BalsamiqSans-Bold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		89AB097E26E760F500DE9827 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = 89AB097D26E760F500DE9827 /* fonts */; };
 		9EC746D41CD586A7C1131D04 /* libPods-TheMealApp-TheMealAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C530BCB239CDFB9982174E5 /* libPods-TheMealApp-TheMealAppTests.a */; };
+		AE5B0BEE96A54D679B0D23D7 /* BalsamiqSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2C127A70F18A4992A589836D /* BalsamiqSans-BoldItalic.ttf */; };
+		BD75E39E01BC4A4CBB3501B4 /* BalsamiqSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E840B6747465430BAD6761DD /* BalsamiqSans-Regular.ttf */; };
 		CDCD8410F1F55609FB2EAAFA /* libPods-TheMealApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6844D40CBC15E64E2A4EE04D /* libPods-TheMealApp.a */; };
 /* End PBXBuildFile section */
 
@@ -38,11 +44,17 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = TheMealApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = TheMealApp/main.m; sourceTree = "<group>"; };
 		1C530BCB239CDFB9982174E5 /* libPods-TheMealApp-TheMealAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TheMealApp-TheMealAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C127A70F18A4992A589836D /* BalsamiqSans-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BalsamiqSans-BoldItalic.ttf"; path = "../assets/fonts/BalsamiqSans-BoldItalic.ttf"; sourceTree = "<group>"; };
 		6544EFDC731E847F8450C9E3 /* Pods-TheMealApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheMealApp.release.xcconfig"; path = "Target Support Files/Pods-TheMealApp/Pods-TheMealApp.release.xcconfig"; sourceTree = "<group>"; };
 		662AB598F04AF4DDB4D15B02 /* Pods-TheMealApp-TheMealAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheMealApp-TheMealAppTests.release.xcconfig"; path = "Target Support Files/Pods-TheMealApp-TheMealAppTests/Pods-TheMealApp-TheMealAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		6844D40CBC15E64E2A4EE04D /* libPods-TheMealApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TheMealApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		74303C0F5F5B49938FF1E4E8 /* BalsamiqSans-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BalsamiqSans-Italic.ttf"; path = "../assets/fonts/BalsamiqSans-Italic.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = TheMealApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		89AB097D26E760F500DE9827 /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fonts; sourceTree = "<group>"; };
+		A29D69C8B5BC4759A888A1D4 /* BalsamiqSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BalsamiqSans-Bold.ttf"; path = "../assets/fonts/BalsamiqSans-Bold.ttf"; sourceTree = "<group>"; };
+		CAF579AB152343CC85584DEF /* Righteous-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Righteous-Regular.ttf"; path = "../assets/fonts/Righteous-Regular.ttf"; sourceTree = "<group>"; };
 		E040305E55EE6162073FFE31 /* Pods-TheMealApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TheMealApp.debug.xcconfig"; path = "Target Support Files/Pods-TheMealApp/Pods-TheMealApp.debug.xcconfig"; sourceTree = "<group>"; };
+		E840B6747465430BAD6761DD /* BalsamiqSans-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BalsamiqSans-Regular.ttf"; path = "../assets/fonts/BalsamiqSans-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -96,6 +108,18 @@
 			name = TheMealApp;
 			sourceTree = "<group>";
 		};
+		2233F9444C9745838C83B5E9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				CAF579AB152343CC85584DEF /* Righteous-Regular.ttf */,
+				A29D69C8B5BC4759A888A1D4 /* BalsamiqSans-Bold.ttf */,
+				2C127A70F18A4992A589836D /* BalsamiqSans-BoldItalic.ttf */,
+				74303C0F5F5B49938FF1E4E8 /* BalsamiqSans-Italic.ttf */,
+				E840B6747465430BAD6761DD /* BalsamiqSans-Regular.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,12 +140,14 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				89AB097D26E760F500DE9827 /* fonts */,
 				13B07FAE1A68108700A75B9A /* TheMealApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* TheMealAppTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				B6D8DF9ADF9D51913FC813D5 /* Pods */,
+				2233F9444C9745838C83B5E9 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -145,7 +171,6 @@
 				0067B07578DA360A70AA7C2A /* Pods-TheMealApp-TheMealAppTests.debug.xcconfig */,
 				662AB598F04AF4DDB4D15B02 /* Pods-TheMealApp-TheMealAppTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -245,6 +270,12 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				40BD8FB75CF243C684FEB4C4 /* Righteous-Regular.ttf in Resources */,
+				78659DA564C8499F814085D3 /* BalsamiqSans-Bold.ttf in Resources */,
+				AE5B0BEE96A54D679B0D23D7 /* BalsamiqSans-BoldItalic.ttf in Resources */,
+				2DE9DA6892BD45BE94510CA8 /* BalsamiqSans-Italic.ttf in Resources */,
+				BD75E39E01BC4A4CBB3501B4 /* BalsamiqSans-Regular.ttf in Resources */,
+				89AB097E26E760F500DE9827 /* fonts in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

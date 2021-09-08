@@ -12,6 +12,8 @@ target 'TheMealApp' do
     :hermes_enabled => false
   )
 
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
   target 'TheMealAppTests' do
     inherit! :complete
     # Pods for testing
